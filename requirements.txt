@@ -1,0 +1,5 @@
+pandas
+streamlit
+snowflake-connector-python
+scikit-learn
+seaborn
